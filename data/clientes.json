@@ -1,0 +1,72 @@
+[
+    {
+        "nome": "Betty", 
+        "_id": "77777788898", 
+        "data_nascimento": "1995-07-23", 
+        "sexo": "F", 
+        "idade": 24
+    },
+    {
+        "nome": "Woody", 
+        "_id": "55566677787", 
+        "data_nascimento": "1993-02-14", 
+        "sexo": "M", 
+        "idade": 26
+    }, 
+    {
+        "nome": "Forky", 
+        "_id": "11122233345", 
+        "data_nascimento": "2000-01-28", 
+        "sexo": "M", 
+        "idade": 19
+    },
+    {
+        "nome": "Gabby", 
+        "_id": "66699966623", 
+        "data_nascimento": "1984-11-5", 
+        "sexo": "F", 
+        "idade": 35
+    },
+    {
+        "nome": "Buzz", 
+        "_id": "73737373737", 
+        "data_nascimento": "1997-10-10", 
+        "sexo": "M", 
+        "idade": 22
+    },
+    {
+        "nome": "Marlin", 
+        "_id": "22344566789", 
+        "data_nascimento": "1979-03-24", 
+        "sexo": "M", 
+        "idade": 40
+    }, 
+    {
+        "nome": "Nemo", 
+        "_id": "99955566623", 
+        "data_nascimento": "2001-05-08", 
+        "sexo": "M", 
+        "idade": 18
+    }, 
+    {
+        "nome": "Bruce Wayne", 
+        "_id": "12365498790", 
+        "data_nascimento": "1985-11-11", 
+        "sexo": "M", 
+        "idade": 34
+    }, 
+    {
+        "nome": "Selina Kyle", 
+        "_id": "98712365477", 
+        "data_nascimento": "1991-04-01", 
+        "sexo": "F", 
+        "idade": 28
+    },
+    {
+        "nome": "Louis Lane", 
+        "_id": "67162717287", 
+        "data_nascimento": "1993-06-07", 
+        "sexo": "F", 
+        "idade": 26
+    }
+]

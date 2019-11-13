@@ -1,0 +1,44 @@
+{
+    "nome": "O senhor dos aneis - volume único", 
+    "autor": "J.R.R. Tokien", 
+    "preco": 140.90
+},
+{
+    "saga": [
+        {
+            "nome": "Harry Potter e a pedra filosofal", 
+            "autor": "JK Rowling", 
+            "preco": 25.90
+        },
+        {
+            "nome": "Harry Potter e a camera secreta", 
+            "autor": "JK Rowling", 
+            "preco": 29.90
+        },
+        {
+            "nome": "Harry Potter e o prisioneiro de askaban", 
+            "autor": "JK Rowling", 
+            "preco": 34.90
+        },
+        {
+            "nome": "Harry Potter e o cálice de fogo", 
+            "autor": "JK Rowling", 
+            "preco": 39.90
+        },
+        {
+            "nome": "Harry Potter e a ordem da fênix", 
+            "autor": "JK Rowling", 
+            "preco": 53.90
+        },
+        {
+            "nome": "Harry Potter e o príncipe mestiço", 
+            "autor": "JK Rowling", 
+            "preco": 25.90
+        },
+        {
+            "nome": "Harry Potter e as reliquias da morte", 
+            "autor": "JK Rowling", 
+            "preco": 59.90
+        }
+    ]
+}
